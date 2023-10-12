@@ -1,0 +1,5 @@
+USE employee_tracker;
+SELECT
+    department.name,
+    department.id
+        FROM department
