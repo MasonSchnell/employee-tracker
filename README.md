@@ -25,9 +25,15 @@ This application allows users to manage their employees, roles, and departments 
 To start the application run the following code in the termainl.
 -     node index.js
 
+## Contact Information
+
+-   Email: masonschnell1@gmail.com
+-   GitHub: [MasonSchnell](https://github.com/MasonSchnell)
+
 ## Acknowledgments
 
 -   Rutgers Full Stack Development Team
+-   [w3 Mysql](https://www.w3schools.com/MySQL/default.asp)
 
 ## License
 
